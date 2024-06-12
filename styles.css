@@ -1,0 +1,38 @@
+body {
+    background: url('https://www.teahub.io/photos/full/21-211129_dragon-ball-z-wallpaper-hd.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 100px auto;
+}
+
+header h1 {
+    font-size: 3em;
+    color: #FFD700;
+    margin-bottom: 0.5em;
+}
+
+.info-box {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
